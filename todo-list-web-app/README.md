@@ -67,11 +67,11 @@ todo-list-web-app/
 
 1. **Clone or Download the Project**:
    ```bash
-   git clone https://github.com/khansaheem786/to_do_listApp.git
+   git clone https://github.com/khansaheem786/TaskFlow.git
    ```
 2. **Navigate to the Project Folder**:
    ```bash
-   cd to_do_listApp/todo-list-web-app
+   cd TaskFlow/todo-list-web-app
    ```
 3. **Open in Any Web Browser**:
    - Double-click `index.html`, OR
